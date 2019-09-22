@@ -1,0 +1,1 @@
+'''write a programe to find whether a number is even or odd'''
